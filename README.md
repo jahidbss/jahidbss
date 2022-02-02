@@ -1,8 +1,7 @@
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jahidbss)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jahid-khan-9a847595//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/jahidbss)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/jahidbss/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/jahidbss)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/18073358/jahid-khan)  
-
+![I am Frontend Developer](https://scontent.fdac149-1.fna.fbcdn.net/v/t39.30808-6/273273904_1109912756494443_8983237647332714653_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=19026a&_nc_ohc=tIzS3WdjJ_8AX_IGikY&_nc_ht=scontent.fdac149-1.fna&oh=00_AT_bsST6eFW4ov4YcCYNuJaKa8DxqB1eFJri9o1FC4L5wg&oe=6200750F)
 ### Hi there 👋, I'm Jahid Khan
 #### I am Frontend Developer
-![I am Frontend Developer](https://scontent.fdac149-1.fna.fbcdn.net/v/t39.30808-6/273273904_1109912756494443_8983237647332714653_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=19026a&_nc_ohc=tIzS3WdjJ_8AX_IGikY&_nc_ht=scontent.fdac149-1.fna&oh=00_AT_bsST6eFW4ov4YcCYNuJaKa8DxqB1eFJri9o1FC4L5wg&oe=6200750F)
+
 
 I’m a front-end Developer. I can build adaptive and high-quality layouts on your design or adapt the website to your corporate identity. I can also create any custom development related to the front-end. I have a perfect understanding of how  JavaScript, HTML, and CSS work, and have a lot of experience working with all of them. If you want to build a really high-quality website and need help doing so, contact me!
 
